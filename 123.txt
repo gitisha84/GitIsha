@@ -1,1 +1,5 @@
-123 b1
+<<<<<<< HEAD
+123 b1 ---- change from b1
+======= Keeping both changes ==========
+123 b2 ---- change from b2
+>>>>>>> b2
