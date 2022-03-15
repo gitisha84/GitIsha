@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Addressbook Tutorial
 ====================
 
@@ -66,3 +67,7 @@ To use the built in server adapters of Eclipse, instead of doing "Run As -> Mave
 - *Do not use the suggested J2EE Preview server* as it is outdated, deprecated and does not support Servlet 3, which is required for this application
 
 *** End of documentation
+=======
+# GitIsha - set
+Isha repo
+>>>>>>> 03de05b6d69dbd0d471f69f23896ba6b19b03de3
